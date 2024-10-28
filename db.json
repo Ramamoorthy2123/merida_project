@@ -1,0 +1,38 @@
+{
+  "submissions": [
+    {
+      "id": "4f41",
+      "date": "2024-10-26",
+      "slug": "new_blog",
+      "category": "oneplus",
+      "name": "ram",
+      "heading1": "oneplus 13",
+      "heading2": "BMW",
+      "paragraphs1": [
+        "never settle",
+        "one"
+      ],
+      "paragraphs2": [
+        "G310RR",
+        "newHeading"
+      ]
+    },
+    {
+      "id": "b9c8",
+      "date": "2024-10-26",
+      "slug": "merida_tech_mind",
+      "category": "Company",
+      "name": "merida",
+      "heading1": "About Us",
+      "heading2": "contact Us",
+      "paragraphs1": [
+        "para 1 about heading1",
+        "para 2 about heading 1"
+      ],
+      "paragraphs2": [
+        "contact form",
+        "contact form 2 "
+      ]
+    }
+  ]
+}

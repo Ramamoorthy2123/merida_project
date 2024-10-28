@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": 1,
+    "date": "September 25, 2023",
+    "slug": "seo-best-way-to-rank",
+    "name": "SEO Guide",
+    "category": "SEO",
+    "heading": {
+      "title": "Best Way to Rank Your Website",
+      "para": [
+        "SEO (Search Engine Optimization) is essential for improving your website's visibility.",
+        "Keyword research, quality content, and backlinks are some effective ways to rank.",
+        "Regularly updating content keeps your site relevant and improves your rankings."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "date": "October 10, 2023",
+    "slug": "coding-skills-improvement",
+    "name": "Programming Tips",
+    "category": "Programming",
+    "heading": {
+      "title": "10 Tips to Improve Your Coding Skills",
+      "para": [
+        "Practice coding every day to build your skills.",
+        "Learn data structures and algorithms to enhance problem-solving abilities.",
+        "Contribute to open source projects for hands-on experience."
+      ]
+    }
+  }
+]
